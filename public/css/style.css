@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Pangolin&display=swap');
+
+body {
+    background-image: url(../img/pexels-maria-geller-2127039.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+body a:hover{
+    text-decoration: none;
+}
+.dropdown a {
+   color: black !important;
+}
+
+.navbar {
+
+    width: 70%;
+    margin: 20px auto;
+    border-radius: 8px;
+    font-family: 'Oswald',
+        sans-serif;
+    background-color: rgb(25, 104, 141);
+
+}
+
+a h1 {
+
+    padding: 0px 0 10px 20px;
+    margin: 0;
+    
+
+}
+
+.container a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.container a:hover {
+    color: rgb(61, 2, 2);
+}
+
+
+
+
+
+
+main {
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px;
+}
+
+.card {
+
+    max-width: 600px;
+    margin: 11% 20%;
+    position: fixed;
+    padding: 0;
+
+
+}
+
+.cars {
+
+    max-width: 70%;
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.cars a {
+    width: 100%;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.cars2 {
+    padding: 0;
+    margin: 30px;
+}
+
+.btn {
+    width: 100%;
+    margin: 0 600px 0 0 !important;
+
+}
+
+.card1 a {
+    text-decoration: none;
+    color: black;
+
+}
+
+ul li span {
+
+    float: right;
+}
